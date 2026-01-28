@@ -56,5 +56,5 @@ All interactions are saved to sql_queries.json:
   SELECT * FROM employees WHERE salary > 50000 ORDER BY hire_date DESC;
   
 - For Mode 2 (Generate SQL):
-   -"Find customers who haven't ordered in the last 30 days"
-  -"Show top 10 products by sales"
+   - "Find customers who haven't ordered in the last 30 days"
+   - "Show top 10 products by sales"
