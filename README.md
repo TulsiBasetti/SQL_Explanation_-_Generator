@@ -47,5 +47,6 @@ All interactions are saved to sql_queries.json:
 
 # Limitations & Notes
 
--Assumption-based Generation: The SQL generator makes educated guesses about table/column names. You may need to adjust the generated SQL to match your actual database schema.
--No Database Connection: This tool doesn't connect to actual databases. It only explains and generates SQL syntax.
+- Assumption-based Generation: The SQL generator makes educated guesses about table/column names. You may need to adjust the generated SQL to match your actual database schema.
+- Groq API Key is used.
+- No Database Connection: This tool doesn't connect to actual databases. It only explains and generates SQL syntax.
