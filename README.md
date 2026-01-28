@@ -1,4 +1,4 @@
-## SQL Assistant ##
+## SQL  Explanation and Generator Bot ##
 
 ## Overview
 A dual-mode SQL tool that helps you understand and generate SQL queries using AI. This application allows you to either explain existing SQL queries or generate SQL queries from natural language descriptions.
