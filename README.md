@@ -24,10 +24,8 @@ A dual-mode SQL tool that helps you understand and generate SQL queries using AI
 - JSON export of all interactions
 
 # File Structure
-
-sql_assistant/
-├── main.py          # Main application file
-├── sql_queries.json # JSON file storing history (auto-generated)
+- main.py          # Main application file
+- sql_queries.json # JSON file storing history (auto-generated)
 
 #  Data Storage
 All interactions are saved to sql_queries.json:
